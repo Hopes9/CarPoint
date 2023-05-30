@@ -1,0 +1,9 @@
+Django~=4.2.1
+djangorestframework~=3.14.0
+networkx~=3.1
+matplotlib~=3.7.1
+geopy~=2.3.0
+django_apscheduler
+psycopg2~=2.9.6
+apscheduler
+drf-yasg
